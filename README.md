@@ -22,7 +22,7 @@ Here I am continuing working with online store from my "expressjs-store-validati
 
 * Uploading project to Heroku 
 
- * [CLICK ON PROJECT LINK](https:/salty-atoll-43255.herokuapp.com/) 
+ * [CLICK ON PROJECT LINK](https://salty-atoll-43255.herokuapp.com/) 
 
 ### NOTE:
  You need to login into Online Store to see all functionality!
